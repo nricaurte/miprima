@@ -1,0 +1,8 @@
+{
+  "name": "miprima",
+  "app_id": "19d657f0",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
